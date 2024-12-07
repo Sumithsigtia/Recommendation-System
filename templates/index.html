@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Analyzer and Chatbot</title>
+</head>
+<body>
+    <h1>Document Analyzer and Chatbot</h1>
+
+    <!-- File Upload -->
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <label for="file">Upload PDF:</label>
+        <input type="file" id="file" name="file" accept=".pdf" required>
+        <button type="submit">Upload</button>
+    </form>
+
+    <!-- Summary Section -->
+    {% if summary %}
+        <h2>Document Summary:</h2>
+        <p>{{ summary }}</p>
+    {% endif %}
+
+    <!-- Chat Section -->
+    <h2>Ask Questions About the Document</h2>
+    <form action="/ask" method="post">
+        <label for="question">Your Question:</label>
+        <input type="text" id="question" name="question" placeholder="Type your question..." required>
+        <button type="submit">Ask</button>
+    </form>
+
+    <!-- Chat Response -->
+    {% if chat_response %}
+        <h2>Chatbot Response:</h2>
+        <p>{{ chat_response }}</p>
+    {% endif %}
+
+    <!-- Suggested Questions -->
+    <h2>Suggested Questions:</h2>
+    {% if suggested_questions %}
+        <ul>
+            {% for question in suggested_questions %}
+                <li>
+                    <form action="/ask" method="post" style="display: inline;">
+                        <input type="hidden" name="question" value="{{ question }}">
+                        <button type="submit">{{ question }}</button>
+                    </form>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No suggestions available.</p>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,3528 @@
+[{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152e7"
+  },
+  "legalName": "AUREUS ANALYTICS PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "AUREUS ANALYTICS PRIVATE LIMITED is a leading customer intelligence and experience company that specializes in empowering insurers to enhance customer retention, loyalty, and lifetime value. They achieve this through the utilization of predictive analytics and machine learning technologies, delivering valuable insights at critical decision-making points. With their cloud-based analytics products, insurers and banks of all sizes can effectively leverage vast internal and external data to provide a superior customer experience. This is facilitated by powerful features, a user-friendly interface, and a subscription-based pricing model.",
+  "pan": "to be added",
+  "foundingDate": "2013-04-24",
+  "dipp": "DIPP00045059",
+  "registrationStatus": "TRUE",
+  "cllpin": "U72900MH2013PTC242384",
+  "address": "Grd Floor,Fleet Building,Village Marol, Opp Marol Fire Station,JB Nagar Marol,Andheri east Mumbai Mumbai City MH 400059 IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "aufinance@aureusanalytics.com"
+  ],
+  "phones": [
+    "to be added"
+  ],
+  "sectors": [
+    "AI and ML",
+    "Data and Analytics",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 6031426,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152e8"
+  },
+  "legalName": "AURUS NETWORK INFOTECH PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "Aurus Network Infotech Private Limited is a company that operates an online coaching platform in India. They provide online classes for a wide range of exams including CA, CS, CMA, GATE, IIT-JEE, banking, UPSC, NCFM, GMAT, actuarial science, and more. Their platform offers comprehensive exam preparation resources and support to students.",
+  "pan": "to be added",
+  "foundingDate": "2010-07-16",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72200MP2010PTC023936",
+  "address": "C-112, C- SECTOR SHAHPURA BHOPAL MP 462039 IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "accounts@aurusnet.com",
+    "ritika@aurusnet.com"
+  ],
+  "phones": [
+    "to be added"
+  ],
+  "sectors": [
+    "Edu-Tech",
+    "Hardware and Technology",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 5976468,
+    "currencyCode": "EUR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152e9"
+  },
+  "legalName": "AVANTI LEARNING CENTRES PRIVATE LIMITED",
+  "city": "Delhi",
+  "description": "Avanti Learning Centres Pvt. Ltd. is an educational startup that offers specialized IIT-JEE, science, and math test preparation classes throughout India. Their innovative approach incorporates technology, the flipped classroom method, and peer learning to grant students 24x7 access to online content and rigorous practice. Engaging discussions are an integral part of their learning environment.",
+  "pan": "to be added",
+  "foundingDate": "2012-11-06",
+  "dipp": "DIPP00011853",
+  "registrationStatus": "TRUE",
+  "cllpin": "U80904DL2012PTC244516",
+  "address": "16, Paschimi Marg, Vasant Vihar, NEW DELHI, DELHI-110057",
+  "valuationStatus": "Pony",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 175.7,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 58.4,
+      "date": "2017-03-31"
+    }
+  ],
+  "emails": [
+    "pradeep@avanti.in",
+    "info@avantifellows.org"
+  ],
+  "phones": [
+    "9958213795"
+  ],
+  "sectors": [
+    "Edu-Tech",
+    "Media and Entertainment"
+  ],
+  "ask": {
+    "amount": 8677940,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152ea"
+  },
+  "legalName": "AVIATUS",
+  "city": "to be added",
+  "description": "AVIATUS is a platform designed to facilitate learning and connect users with industry experts, providing them with the opportunity to acquire new knowledge and engage with professionals in various fields.",
+  "pan": "to be added",
+  "foundingDate": "to be added",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [],
+  "ask": {
+    "amount": 7698794,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152eb"
+  },
+  "legalName": "AXILLY LABS PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "DoSelect is an online skill measurement platform designed to aid organisations in making important decisions. The startup's platform assists organisations to take critical people decisions using data, intelligence, automation, and benchmarking, thereby enabling organisations to re-invent how hiring and learning teams function and work.",
+  "pan": "to be added",
+  "foundingDate": "2015-11-26",
+  "dipp": "DIPP00010902",
+  "registrationStatus": "TRUE",
+  "cllpin": "U72400KA2015PTC084349",
+  "address": "#735, 4th Floor 15th A Main, 22nd Cross, Club Road, HSR Layout, Bengaluru, Karnataka - 560102 IN",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 163.2,
+      "date": "2022-03-31"
+    },
+    {
+      "revenue": 42.7,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 35.2,
+      "date": "2020-03-31"
+    }
+  ],
+  "emails": [
+    "info@doselect.com",
+    "investors@naukri.com",
+    "ra@doselect.com"
+  ],
+  "phones": [
+    "8065649195"
+  ],
+  "sectors": [
+    "Business Support Services",
+    "Data and Analytics",
+    "Internet Services",
+    "Software",
+    "Commerce and Shopping",
+    "Professional Services"
+  ],
+  "ask": {
+    "amount": 5711754,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152ec"
+  },
+  "legalName": "INFOMOKO TECHNOLOGY PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "Infomoko Technology Pvt. Ltd. is a company that operates the online portal babychakra.com, specializing in child care consulting services. The platform connects parents with experts and facilitates communication between them. It offers a mobile-first web platform and an application for advice, allowing parents to share their baby's activities. Additional features include reviews, listings, and booking services for events, wellness centers, support centers, photography, and shopping. The company also offers retailing services for baby care products.",
+  "pan": "to be added",
+  "foundingDate": "2014-02-12",
+  "dipp": "DIPP00020975",
+  "registrationStatus": "TRUE",
+  "cllpin": "U72200MH2014PTC253154",
+  "address": "3B-48/49, Phoenix Paragon Plaza, L.B.S Marg, Kurla ( West ) Mumbai 400070",
+  "valuationStatus": "Pony",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [
+    {
+      "revenue": 13.3,
+      "date": "2018-03-31"
+    },
+    {
+      "revenue": 3.8,
+      "date": "2017-03-31"
+    }
+  ],
+  "emails": [
+    "hello@babychakra.com",
+    "care@babychakra.com",
+    "naiyya@babychakra.com",
+    "compliance@babychakra.com"
+  ],
+  "phones": [
+    "917710080003",
+    "912248914748",
+    "912248913663"
+  ],
+  "sectors": [
+    "Community and Lifestyle",
+    "Commerce and Shopping"
+  ],
+  "ask": {
+    "amount": 7314479,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152ed"
+  },
+  "legalName": "BARGAIN TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Delhi",
+  "description": "Vantage Circle is a reward and recognition platform that helps organizations create a productive workforce.",
+  "pan": "to be added",
+  "foundingDate": "2010-10-28",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72900DL2010PTC209922",
+  "address": "C1-1151/Vasant Kunj, New Delhi – 110070",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "support@vantagecircle.com",
+    "finance@vantagecircle.com",
+    "partner@vantagecircle.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Commerce and Shopping",
+    "Food and Beverage"
+  ],
+  "ask": {
+    "amount": 2149248,
+    "currencyCode": "EUR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152ee"
+  },
+  "legalName": "BARODA TAXI CABS PRIVATE LIMITED",
+  "city": "Vadodara",
+  "description": "BARODA TAXI CABS PRIVATE LIMITED is a leading inter-city cab provider in India, specializing in one-way travel. They offer discounted rates for one-way journeys, making it a more affordable option for travelers. Their AC Taxi service is available at a discounted rate compared to regular two-way fares, allowing customers to save on return fares when traveling one-way.",
+  "pan": "to be added",
+  "foundingDate": "2013-10-08",
+  "dipp": "DIPP00000939",
+  "registrationStatus": "TRUE",
+  "cllpin": "U63000GJ2013PTC077135",
+  "address": "419, GANGOTRI ICON OPP. GOKUL PARTY PLOT, VASNA ROAD VADODARA Vadodara GJ 390007 IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "booking@oneway.cab",
+    "support@oneway.cab",
+    "vivek@oneway.cab"
+  ],
+  "phones": [
+    "918000320320",
+    "918000247246",
+    "918000247247"
+  ],
+  "sectors": [
+    "Transportation and Logistics"
+  ],
+  "ask": {
+    "amount": 1906262,
+    "currencyCode": "EUR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152ef"
+  },
+  "legalName": "EVOBI AUTOMATIONS PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "EVOBI AUTOMATIONS PRIVATE LIMITED introduces BIBOX (Brain in Box), an accessible programmable electronic platform. BIBOX empowers users to design and construct real-world gadgets, ranging from robotic toys to machine automation. With BIBOX, users can focus on the gadget development rather than being burdened by technological complexities. This user-friendly platform caters to a wide range of users, spanning from school children to engineers.",
+  "pan": "to be added",
+  "foundingDate": "2012-04-18",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72200KA2012PTC063620",
+  "address": "No 29 Muncipal No 23/2/4 Beretena Agrahara Electronic City Post, Hosur Road BANGALORE Bangalore KA 560100 IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "sansenan@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Community and Lifestyle",
+    "Consumer Products",
+    "Hardware and Technology"
+  ],
+  "ask": {
+    "amount": 2746984,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f0"
+  },
+  "legalName": "BIG LAUNDRY SERVICES PRIVATE LIMITED",
+  "city": "Chennai",
+  "description": "BIG LAUNDRY SERVICES PRIVATE LIMITED utilizes cutting-edge technology to ensure exceptional washing and ironing services for your clothes. Our steam wash method guarantees fabric safety and maximum protection. Additionally, our steam press technique guarantees a longer-lasting crispness. To enhance safety measures, we employ bar coding to safeguard your garments. Trust us to provide top-notch laundry services that prioritize quality and convenience.",
+  "pan": "to be added",
+  "foundingDate": "2015-06-30",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74900TN2015PTC101194",
+  "address": "Chrysalis Home Needs Pvt. Ltd, New No.1/56, Pudupakkam(Behind Hanuman Temple), Vandalur - Kelambakkam Road, Kanchipuram District - 603103, Tamil Nadu, India.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "care@biglaundry.com",
+    "accounts@biglaundry.com"
+  ],
+  "phones": [
+    "4449056000",
+    "4449858080"
+  ],
+  "sectors": [
+    "Clothing and Apparel",
+    "Real Estate"
+  ],
+  "ask": {
+    "amount": 3357819,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f1"
+  },
+  "legalName": "CERULEAN ENVIRO TECH PRIVATE LIMITED",
+  "city": "Pune",
+  "description": "CERULEAN ENVIRO TECH PRIVATE LIMITED is a company specializing in the research and development of environmentally friendly products. They are dedicated to offering waste water management services, focusing specifically on water recycling and purification solutions. Their expertise lies in grey water recycling and they hold a patented process for this purpose.",
+  "pan": "to be added",
+  "foundingDate": "2015-02-12",
+  "dipp": "DIPP00000183",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74900PN2015PTC154030",
+  "address": "\"Payas\", 25, Madhavbaug Society, Shivtirthanagar, Paud Road, Pune, Maharastra 411038",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "sonali.mokashi@cerulean-envirotech.com",
+    "info@cerulean-envirotech.com",
+    "ajay.mokashi@cerulean-envirotech.com"
+  ],
+  "phones": [
+    "919850884232"
+  ],
+  "sectors": [
+    "Clean-Tech",
+    "Natural Resources"
+  ],
+  "ask": {
+    "amount": 8267214,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f2"
+  },
+  "legalName": "CHAAIPANI BIZ SUPPORT PRIVATE LIMITED",
+  "city": "Gurugram",
+  "description": "Chaaipani Biz Support Pvt. Ltd. operates a digital media platform focusing on progressive stories in social impact, entrepreneurship, leadership, innovation, and arts. The company specializes in providing solution-oriented content.",
+  "pan": "to be added",
+  "foundingDate": "2015-10-27",
+  "dipp": "DIPP00006868",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74990GJ2015PTC084870",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "shruti@chaaipani.com"
+  ],
+  "phones": [
+    "to be added"
+  ],
+  "sectors": [
+    "Community and Lifestyle",
+    "Media and Entertainment",
+    "Others"
+  ],
+  "ask": {
+    "amount": 9713392,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f3"
+  },
+  "legalName": "NAVI FINSERV LIMITED",
+  "city": "Bengaluru",
+  "description": "Navi Finserv Private Limited, formerly known as Chaitanya Rural Intermediation Development Services Private Limited, is a financial services company specializing in providing secured loans to the lower-income rural population. With a systematic and focused approach, Navi Finserv aims to meet the borrowing needs of middle-income families. Their goal is to become a Pan India Financial Services Company, offering a wide range of financial products to empower and build the capacity of these families.",
+  "pan": "to be added",
+  "foundingDate": "2012-02-14",
+  "dipp": "DIPP00062607",
+  "registrationStatus": "TRUE",
+  "cllpin": "U65923KA2012PLC062537",
+  "address": "#145, 2nd Floor, NR Square, 1st Main Road Sirsi Circle, Chamrajpet Bangalore - 560018",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 7790,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 1990,
+      "date": "2020-03-31"
+    }
+  ],
+  "emails": [
+    "corporate_finserv@navi.com",
+    "help@navi.com"
+  ],
+  "phones": [
+    "8147544555"
+  ],
+  "sectors": [
+    "Community and Lifestyle",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 5092938,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f4"
+  },
+  "legalName": "APEX KIDNEY CARE PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "Apex Kidney Care Pvt. Ltd. specializes in providing comprehensive healthcare services focused on kidney disease treatment, including kidney transplantation, peritoneal dialysis, and nephrology consultations. The company owns and operates state-of-the-art dialysis centers and kidney care labs to ensure the highest quality of care. With a strong presence in the healthcare industry, Apex Kidney Care Pvt. Ltd. is dedicated to serving patients in need of specialized kidney care.",
+  "pan": "to be added",
+  "foundingDate": "2007-06-25",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U85100MH2007PTC171970",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "accounts@apexkidneycare.com"
+  ],
+  "phones": [
+    "to be added"
+  ],
+  "sectors": [
+    "Health-Tech"
+  ],
+  "ask": {
+    "amount": 7570264,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f5"
+  },
+  "legalName": "APPOINTY INFORMATION TECHNOLOGY PRIVATE LIMITED",
+  "city": "Bhopal",
+  "description": "APPOINTY INFORMATION TECHNOLOGY PRIVATE LIMITED is a software and technology startup specializing in providing an online appointment scheduling software for businesses. They also offer SaaStack, a comprehensive low code SaaS development platform that enables the rapid development of SaaS applications.",
+  "pan": "to be added",
+  "foundingDate": "2016-04-29",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74900MH2016PTC280353",
+  "address": "4th Floor, Maple High Street, Bhopal, Madhya Pradesh 462046, IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "careers@appointy.com",
+    "gauravs@appointy.com",
+    "contact@appointy.com"
+  ],
+  "phones": [
+    "917415269200"
+  ],
+  "sectors": [
+    "Software",
+    "Information Technology",
+    "Others"
+  ],
+  "ask": {
+    "amount": 3176834,
+    "currencyCode": "INR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f6"
+  },
+  "legalName": "AUTOYAAR",
+  "city": "Ahmedabad",
+  "description": "Autoyaar is an online marketplace that connects customers with service providers in the car and bike industry. They offer a wide range of services including car and bike service and repairs, car spa, accidental repair, tyres, batteries, and various after-sale services. With a focus on bridging the gap between customers and service providers, Autoyaar provides an efficient platform for planning and managing bookings.",
+  "pan": "to be added",
+  "foundingDate": "to be added",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "D-119, Sumel Business Park-6, Opposite Hanumanpura Road, Shahibaug, BRTS Corridor, Dudheshwar, Ahmedabad, Gujarat 380004",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "info@autoyaar.com"
+  ],
+  "phones": [
+    "to be added"
+  ],
+  "sectors": [
+    "Consumer Services",
+    "Transportation and Logistics",
+    "Sales and Marketing",
+    "Commerce and Shopping",
+    "Energy"
+  ],
+  "ask": {
+    "amount": 4815543,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f7"
+  },
+  "legalName": "AVANTI ACCOUNTING SERVICES PRIVATE LIMITED",
+  "city": "Coimbatore",
+  "description": "AVANTI ACCOUNTING SERVICES PRIVATE LIMITED is a provider of comprehensive accounting services specializing in meeting complex accounting, audit, and taxation needs. They offer detailed accounting know-how, ensuring clients have access to reliable financial alternatives.",
+  "pan": "to be added",
+  "foundingDate": "2015-04-21",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74120TZ2015PTC021309",
+  "address": "A415 Vijaya Hyyde Park Apartment Duraiswamy Layout, Avarampalayam Road, Peelamedu, Coimbatore Tamil Nadu INDIA 641004",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "vasanth@avantiaspl.com"
+  ],
+  "phones": [
+    "to be added"
+  ],
+  "sectors": [
+    "Business Support Services",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 1515486,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f8"
+  },
+  "legalName": "AVIEUM LIFE SCIENCES PRIVATE LIMITED",
+  "city": "Pune",
+  "description": "Avieum Life Sciences is a leading contract research organization specializing in pharmaceutical R&D support. With expertise in Synthetic and Medicinal Chemistry, Process Development, and Fragment Based Drug Discovery, they efficiently handle projects of various scales. Boasting a highly experienced team, Avieum provides comprehensive support throughout the drug discovery journey, from HIT Identification to preclinical research.",
+  "pan": "to be added",
+  "foundingDate": "2017-01-11",
+  "dipp": "DIPP00022546",
+  "registrationStatus": "TRUE",
+  "cllpin": "U73100PN2017PTC167898",
+  "address": "International Biotech Park, Genesis Square, Ground floor, MIDC, Hinjewadi Phase II, MAAN, Pune 411057, India",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [
+    {
+      "revenue": 27.4,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 4.3,
+      "date": "2018-03-31"
+    }
+  ],
+  "emails": [
+    "info@avieum.com",
+    "ramesh.kale@avieum.com"
+  ],
+  "phones": [
+    "918317238480"
+  ],
+  "sectors": [
+    "Real Estate",
+    "Media and Entertainment",
+    "Biotech"
+  ],
+  "ask": {
+    "amount": 3253864,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152f9"
+  },
+  "legalName": "AWAAZ DE INFOSYSTEMS PRIVATE LIMITED",
+  "city": "Ahmedabad",
+  "description": "AWAAZ DE INFOSYSTEMS PRIVATE LIMITED specializes in providing technology solutions and services for development sector organizations. Their innovative communication and data collection tools are designed to connect with underserved communities, functioning seamlessly on both mobiles and landlines.",
+  "pan": "to be added",
+  "foundingDate": "2012-05-09",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72200GJ2012PTC070265",
+  "address": "104 Shanay-II (Indian Acadamy for Self Employed Women's Organization Building) Opp Gandhigram Railway Station, Behind Emerald Honda Service Center, Ashram Road, Ellis Bridge, Ahmedabad, Gujarat, India 380006",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "hardik@awaaz.de"
+  ],
+  "phones": [
+    "917940086740"
+  ],
+  "sectors": [
+    "Edu-Tech",
+    "Community and Lifestyle",
+    "Media and Entertainment",
+    "Agritech and Farming"
+  ],
+  "ask": {
+    "amount": 1406448,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152fa"
+  },
+  "legalName": "AWESTRUCK FOODS PRIVATE LIMITED",
+  "city": "Gurugram",
+  "description": "to be added",
+  "pan": "to be added",
+  "foundingDate": "2013-09-30",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U15490DL2013PTC258544",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "shregz@gmail.com"
+  ],
+  "phones": [
+    "to be added"
+  ],
+  "sectors": [
+    "Transportation and Logistics"
+  ],
+  "ask": {
+    "amount": 4577921,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152fb"
+  },
+  "legalName": "AXIOM RESEARCH LABS PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "Axiom Research Labs Private Limited is an organization focused on developing military and aerospace technologies. They are dedicated to designing pioneering solutions for the next generation of space exploration. Their flagship mission, a spacecraft bus, is set to launch in early 2019, delivering a commercial payload of 50kgs. Supported by a team of 75 professionals and advanced infrastructure, TeamIndus, a subsidiary of AxiomLabs, offers deep tech and core engineering capabilities in solution development, prototyping, and supply chain management.",
+  "pan": "to be added",
+  "foundingDate": "2011-05-03",
+  "dipp": "DIPP00019296",
+  "registrationStatus": "TRUE",
+  "cllpin": "U73100DL2011PTC218488",
+  "address": "Survey # 9, Off Bellary Road, Jakkur Main Rd, Jakkuru Layout, Byatarayanapura Bengaluru 560092 India",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "rahul.narayan@gmail.com",
+    "moonshot@teamindus.in"
+  ],
+  "phones": [
+    "8046667100"
+  ],
+  "sectors": [
+    "Edu-Tech",
+    "Transportation and Logistics",
+    "Navigation and Mapping",
+    "Natural Resources",
+    "Hardware and Technology",
+    "Defence-Tech",
+    "Software",
+    "Health-Tech",
+    "Government",
+    "Real Estate"
+  ],
+  "ask": {
+    "amount": 4493296,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152fc"
+  },
+  "legalName": "AXON AUTOMATED SYSTEMS PRIVATE LIMITED",
+  "city": "Chennai",
+  "description": "Axon Automated Systems Private Limited is a robotics company specializing in automating household chores for the Indian market. Their appliances are tailored for staple food preparation and have a strong focus on catering to urban areas.",
+  "pan": "to be added",
+  "foundingDate": "2016-08-18",
+  "dipp": "DIPP00023933",
+  "registrationStatus": "TRUE",
+  "cllpin": "U31909TN2016PTC112028",
+  "address": "Flat No 3, First Floor, B Block, New No. 7B OLD No.10A, Vinyaga Apts, Gandhi Road, Velachery Chennai",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "vishal.singh@axonmachines.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Sales and Marketing",
+    "Hardware and Technology",
+    "Software",
+    "Professional Services",
+    "Manufacturing"
+  ],
+  "ask": {
+    "amount": 8325772,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152fd"
+  },
+  "legalName": "AYUSHMAN INFRAPROMOTERS PRIVATE LIMITED",
+  "city": "Pune",
+  "description": "AYUSHMAN INFRAPROMOTERS PRIVATE LIMITED specializes in managing the healthcare needs of individuals at home and office. With the convenience of online tracking, customers can easily stay updated on the progress of their healthcare services.",
+  "pan": "to be added",
+  "foundingDate": "2019-06-18",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U70109UP2019PTC118165",
+  "address": "FLAT No. RH/1005, BLOCK- B SEC-4, ROHINI APARTMENT, GN EXTN LUCKNOW Lucknow-226010 Uttar Pradesh",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "dp_8267@rediffmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Health-Tech"
+  ],
+  "ask": {
+    "amount": 6215230,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152fe"
+  },
+  "legalName": "AZNOG",
+  "city": "Nagpur",
+  "description": "Aznog Technologies is a VoIP service provider offering international call services through the internet. Users can make free phone calls to mobile and landline numbers worldwide without the need for credits or subscriptions.",
+  "pan": "to be added",
+  "foundingDate": "2015-01-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Messaging and Communications",
+    "Apps",
+    "Internet Services",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 7878718,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e152ff"
+  },
+  "legalName": "AZURO PROPERTY MANAGEMENT SERVICES PRIVATE LIMITED",
+  "city": "Gurugram",
+  "description": "AZURO PROPERTY MANAGEMENT SERVICES PRIVATE LIMITED is a startup specializing in real estate asset management. They offer professional property management services, including tenant background checks, maintenance, inspections, and finding suitable tenants.",
+  "pan": "to be added",
+  "foundingDate": "2014-08-21",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74999DL2014PTC403038",
+  "address": "Square Yards, Good Earth Business Bay, 9th Floor, Sector 58, Gurugram, Haryana 122011, IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "hi@azuro.in",
+    "secretarial@squareyards.com"
+  ],
+  "phones": [
+    "912241200733"
+  ],
+  "sectors": [
+    "Commerce and Shopping",
+    "Real Estate",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 2770765,
+    "currencyCode": "AUD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15300"
+  },
+  "legalName": "B2BSPHERE INDIA PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "B2BSPHERE INDIA PRIVATE LIMITED operates as a social marketplace connecting buyers and suppliers globally for information exchange and business transactions.",
+  "pan": "to be added",
+  "foundingDate": "2016-02-17",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74900KA2016PTC086225",
+  "address": "NO.145, 3RD CROSS, 6TH BLOCK KORAMANGALA, BENGALURU Karnataka INDIA 560095",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "kkulkarni@hooduku.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Software",
+    "Community and Lifestyle",
+    "Commerce and Shopping",
+    "Others"
+  ],
+  "ask": {
+    "amount": 3437075,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15301"
+  },
+  "legalName": "BAADL TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "Baadl Technologies Pvt. Ltd. operates Dekkho.com, an online video streaming portal that offers curated content from providers in India and abroad. The platform provides free streaming, low internet bandwidth consumption, and offline viewing.",
+  "pan": "to be added",
+  "foundingDate": "2016-03-02",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74999MH2016PTC273752",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 1.1,
+      "date": "2017-03-31"
+    }
+  ],
+  "emails": [
+    "tanay@baadl.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Video",
+    "Media and Entertainment",
+    "Content and Publishing",
+    "Internet Services"
+  ],
+  "ask": {
+    "amount": 3721020,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15302"
+  },
+  "legalName": "BABYBLISS.IN",
+  "city": "to be added",
+  "description": "BabyBliss offers a collection of baby products for infants and toddlers.",
+  "pan": "to be added",
+  "foundingDate": "to be added",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Community and Lifestyle",
+    "Commerce and Shopping"
+  ],
+  "ask": {
+    "amount": 5627989,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15303"
+  },
+  "legalName": "BHAJASVA INNOVATIONS PRIVATE LIMITED",
+  "city": "Kollam",
+  "description": "BHAJASVA INNOVATIONS PRIVATE LIMITED has implemented a comprehensive cyber security policy that covers guidelines and provisions focused on safeguarding their data and technology infrastructure.",
+  "pan": "to be added",
+  "foundingDate": "2015-01-23",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72900KL2015PTC037854",
+  "address": "Amrita Technology Business Incubator, Amrita TBI Building, Clappana PO, Kollam, Kerala 690525.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "bhajasvainnovations@gmail.com",
+    "pavisiva@gmail.com",
+    "rajashreenair22@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Privacy and Security",
+    "Real Estate"
+  ],
+  "ask": {
+    "amount": 1561603,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15304"
+  },
+  "legalName": "MOUNTAIN TRAIL FOODS PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "MOUNTAIN TRAIL FOODS PRIVATE LIMITED is a leading F&B retail brand focused on delivering exceptional Chai experiences to the working Indian.",
+  "pan": "to be added",
+  "foundingDate": "2008-06-04",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U55209KA2008PTC046663",
+  "address": "102, 2nd Floor, Hosur Main Road, Kaveri Layout, Adugodi, Bangalore – 560 029.",
+  "valuationStatus": "Pony",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 557,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 588.3,
+      "date": "2017-03-31"
+    },
+    {
+      "revenue": 97,
+      "date": "2014-03-31"
+    }
+  ],
+  "emails": [
+    "companysecretary@chaipoint.com",
+    "customercare@chaipoint.com"
+  ],
+  "phones": [
+    "6366857694"
+  ],
+  "sectors": [
+    "Commerce and Shopping",
+    "Food and Beverage"
+  ],
+  "ask": {
+    "amount": 3360034,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15305"
+  },
+  "legalName": "CONNECKT ME",
+  "city": "Chennai",
+  "description": "CONNECKT ME is a user-friendly mobile app that connects individuals with professionals in their vicinity, based on their network strength. It facilitates the discovery of the right person for your specific needs and also alerts you when your contacts are nearby.",
+  "pan": "to be added",
+  "foundingDate": "to be added",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Apps",
+    "Hardware and Technology"
+  ],
+  "ask": {
+    "amount": 3924582,
+    "currencyCode": "EUR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15306"
+  },
+  "legalName": "FINGERLIX",
+  "city": "Mumbai",
+  "description": "Fingerlix is a company that specializes in providing on-demand semi-cooked food products. They offer a wide range of options including batters/mixes, curries, paranthas, and dals.",
+  "pan": "to be added",
+  "foundingDate": "2016-01-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Food and Beverage"
+  ],
+  "ask": {
+    "amount": 9147058,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15307"
+  },
+  "legalName": "FINMITRA FINANCIAL SERVICES PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "Good quality affordable financial advice and services have remained inaccessible to the middle & upper-middle class Indians.",
+  "pan": "to be added",
+  "foundingDate": "2015-03-13",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74900KA2015PTC079257",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "sbhargavi@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Media and Entertainment",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 3952844,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15308"
+  },
+  "legalName": "FITPHILIA SOLUTIONS PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "FitPhilia Solutions Private Limited specializes in helping individuals establish fitness as a habit by implementing behavioral changes and offering a personalized and enriching workout experience.",
+  "pan": "to be added",
+  "foundingDate": "2016-01-25",
+  "dipp": "DIPP00050876",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74900KA2016PTC085553",
+  "address": "2nd Floor, Prestige Omega, No. 104, EPIP Zone, Whitefield, Bangalore, Karnataka 560066.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "nirav@fitphilia.com",
+    "nirav.patil12@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Sports"
+  ],
+  "ask": {
+    "amount": 8278250,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15309"
+  },
+  "legalName": "MOVINGUP PRODUCTS PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "MOVINGUP PRODUCTS PRIVATE LIMITED operates FlippAR, an Augmented Reality app designed to enhance people's engagement with cities through narrated videos and AR postcards.",
+  "pan": "to be added",
+  "foundingDate": "2015-08-12",
+  "dipp": "DIPP00006187",
+  "registrationStatus": "TRUE",
+  "cllpin": "U72200KA2015PTC082205",
+  "address": "4th Floor, NUMA Bengaluru, 46/1, Church Street, Bangalore 560001, India",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "1800@flippar.com",
+    "flipparworld@gmail.com",
+    "strappvivek@gmail.com"
+  ],
+  "phones": [
+    "919845687447"
+  ],
+  "sectors": [
+    "Apps",
+    "Media and Entertainment",
+    "Travel and Tourism",
+    "Hardware and Technology"
+  ],
+  "ask": {
+    "amount": 843006,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1530a"
+  },
+  "legalName": "FOA GROWTHTECH PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "FOA Growthtech Pvt. Ltd. operates Dazzletoday, a trade show application designed for exhibitors with features like lead management and trade show optimization.",
+  "pan": "to be added",
+  "foundingDate": "2011-07-14",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U93090MH2011PTC219778",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "sanjay.barkataki@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Sales and Marketing",
+    "Apps",
+    "Information Technology"
+  ],
+  "ask": {
+    "amount": 4389541,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1530b"
+  },
+  "legalName": "FOMOKART RETAIL PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "FOMOKART RETAIL PRIVATE LIMITED is an online store that specializes in offering a wide range of regional traditional delicacies from various cities in India.",
+  "pan": "to be added",
+  "foundingDate": "2015-12-02",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U52590KA2015PTC084474",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "diwakar.yadav87@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Transportation and Logistics"
+  ],
+  "ask": {
+    "amount": 9340287,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1530c"
+  },
+  "legalName": "FREEDOM SMART LABS",
+  "city": "Gurugram",
+  "description": "Freedom revolutionizes the retail industry by giving the outlets a medium to communicate with their prospective customers.",
+  "pan": "to be added",
+  "foundingDate": "2015-01-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Professional Services",
+    "Commerce and Shopping"
+  ],
+  "ask": {
+    "amount": 3481612,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1530d"
+  },
+  "legalName": "FROMAHOME TECHNOLOGY PRIVATE LIMITED",
+  "city": "Chennai",
+  "description": "FROMAHOME TECHNOLOGY PRIVATE LIMITED is an online platform that offers a wide range of home-cooked food options, including breakfast, lunch, and dinner.",
+  "pan": "to be added",
+  "foundingDate": "2015-08-05",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72900TN2015PTC101691",
+  "address": "D.No. T3, No.1/678, Moovendhar Street, Chennai, Tamilnadu, India 600100",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "vinodhrajsubramanian@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Food and Beverage"
+  ],
+  "ask": {
+    "amount": 780347,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1530e"
+  },
+  "legalName": "NYKAA E-RETAIL PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "Nykaa E-Retail Pvt. Ltd. is an online store specializing in offering a wide range of beauty and wellness products.",
+  "pan": "to be added",
+  "foundingDate": "2012-04-24",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "L52600MH2012PLC230136",
+  "address": "to be added",
+  "valuationStatus": "Unicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 51440,
+      "date": "2023-03-31"
+    },
+    {
+      "revenue": 3083,
+      "date": "2022-03-31"
+    },
+    {
+      "revenue": 2060.6,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 2181.5,
+      "date": "2020-03-31"
+    },
+    {
+      "revenue": 1192.7,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 5780.8,
+      "date": "2018-03-31"
+    },
+    {
+      "revenue": 2023.8,
+      "date": "2017-03-31"
+    },
+    {
+      "revenue": 169.5,
+      "date": "2015-03-31"
+    }
+  ],
+  "emails": [
+    "companysecretary@nykaa.com",
+    "nykaacompanysecretary@nykaa.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Community and Lifestyle",
+    "Commerce and Shopping",
+    "Health-Tech"
+  ],
+  "ask": {
+    "amount": 6287885,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1530f"
+  },
+  "legalName": "GLASSBEAM SOFTWARE INDIA PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "GLASSBEAM SOFTWARE INDIA PRIVATE LIMITED is a cutting-edge machine data analytics company. They specialize in bringing structure and meaning to data obtained from various connected devices, enabling them to provide valuable and actionable intelligence.",
+  "pan": "to be added",
+  "foundingDate": "2006-01-02",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72200KA2006PTC038107",
+  "address": "No 21, 3rd Floor, Sree Rama Deevena, Ulsoor Road, Bangalore, Karnataka 560042.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "pramod.sridharamurthy@glassbeam.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Data and Analytics",
+    "Internet Services"
+  ],
+  "ask": {
+    "amount": 6015638,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15310"
+  },
+  "legalName": "GLUE DESIGN PRIVATE LIMITED",
+  "city": "Delhi",
+  "description": "Glue Design Pvt. Ltd. specializes in providing design and associated services with innovative products like QuikTile and Hexact, focusing on retail, exhibitions, and product design.",
+  "pan": "to be added",
+  "foundingDate": "1993-06-21",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74899DL1993PTC054126",
+  "address": "F-301, First Floor, Lado Sarai, New Delhi, South Delhi, DL 110030.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "divakar@gluedesign.in"
+  ],
+  "phones": [],
+  "sectors": [
+    "Real Estate",
+    "Commerce and Shopping",
+    "Design"
+  ],
+  "ask": {
+    "amount": 9909659,
+    "currencyCode": "INR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15311"
+  },
+  "legalName": "GOBASCO PRIVATE LIMITED",
+  "city": "Lucknow",
+  "description": "Gobasco Pvt. Ltd. is an agricultural supply platform specializing in procurement optimization, transportation optimization, and credit risk management.",
+  "pan": "to be added",
+  "foundingDate": "2017-01-11",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U01100UP2017PTC089043",
+  "address": "House No. 119, MARUTI PURAM, FZD RD, Lucknow, UP 226016.",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 2.1,
+      "date": "2020-03-31"
+    },
+    {
+      "revenue": 104.6,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 44.5,
+      "date": "2018-03-31"
+    },
+    {
+      "revenue": 0,
+      "date": "2017-03-31"
+    }
+  ],
+  "emails": [
+    "vedantkatiyar88@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Professional Services",
+    "Transportation and Logistics",
+    "Fin-Tech",
+    "Agritech and Farming"
+  ],
+  "ask": {
+    "amount": 740838,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15312"
+  },
+  "legalName": "GODOF HOSPITALS",
+  "city": "to be added",
+  "description": "to be added",
+  "pan": "to be added",
+  "foundingDate": "to be added",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [],
+  "ask": {
+    "amount": 4893091,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15313"
+  },
+  "legalName": "GOEASY",
+  "city": "Chennai",
+  "description": "Goeasy mobile city guide is an offline mobile local search.",
+  "pan": "to be added",
+  "foundingDate": "to be added",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Media and Entertainment"
+  ],
+  "ask": {
+    "amount": 8600633,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15314"
+  },
+  "legalName": "TSEPAK TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "TSEPAK TECHNOLOGIES PRIVATE LIMITED has developed a smartphone-based platform that enables businesses to create mini-applications connecting them with consumers.",
+  "pan": "to be added",
+  "foundingDate": "2012-11-16",
+  "dipp": "DIPP00047590",
+  "registrationStatus": "TRUE",
+  "cllpin": "U72200KA2012PTC066781",
+  "address": "to be added",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 7.4,
+      "date": "2017-03-31"
+    }
+  ],
+  "emails": [
+    "accounts@goodbox.in"
+  ],
+  "phones": [
+    "8041462323"
+  ],
+  "sectors": [
+    "Apps",
+    "Commerce and Shopping"
+  ],
+  "ask": {
+    "amount": 4232087,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15315"
+  },
+  "legalName": "GREE ENERGY SYSTEMS",
+  "city": "Tiruchirappalli",
+  "description": "Target manufactures Bio-fuel based fuel additive.",
+  "pan": "to be added",
+  "foundingDate": "to be added",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [
+    "919029090880"
+  ],
+  "sectors": [
+    "Energy"
+  ],
+  "ask": {
+    "amount": 4337763,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15316"
+  },
+  "legalName": "HELLODHOBI DRY-CLEANERS PRIVATE LIMITED",
+  "city": "Pune",
+  "description": "HELLODHOBI DRY-CLEANERS PRIVATE LIMITED is a startup specializing in professional commercial laundry solutions with pickup and delivery services.",
+  "pan": "to be added",
+  "foundingDate": "2015-07-29",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74999PN2015PTC155981",
+  "address": "S. NO. 52/2, Vinsel Heights, Maruti Nagar, Pune - 411014, Maharashtra.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 1.1,
+      "date": "2016-03-31"
+    }
+  ],
+  "emails": [
+    "kunal.ramesh@hellodhobi.com",
+    "care@hellodhobi.com"
+  ],
+  "phones": [
+    "919075444666"
+  ],
+  "sectors": [
+    "Clothing and Apparel",
+    "Others",
+    "Real Estate",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 7657729,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15317"
+  },
+  "legalName": "HEROTALKIES",
+  "city": "Chennai",
+  "description": "Herotalkies is a subscription-based entertainment website offering legal and original Tamil movies on-demand.",
+  "pan": "to be added",
+  "foundingDate": "2012-01-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "hero@herotalkies.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Video",
+    "Media and Entertainment",
+    "Professional Services",
+    "Clothing and Apparel",
+    "Content and Publishing"
+  ],
+  "ask": {
+    "amount": 3989537,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15318"
+  },
+  "legalName": "HEURISTICS INFO SYSTEMS PRIVATE LIMITED",
+  "city": "Delhi",
+  "description": "Heuristics Info Systems Pvt. Ltd. specializes in location-based products, solutions, and services like GPS-based vehicle tracking and mobile-based personnel tracking.",
+  "pan": "to be added",
+  "foundingDate": "2004-04-20",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72900DL2004PTC125917",
+  "address": "C- 5/32 SAFDARJUNG DEVELOPMENT AREA NEW DELHI DL 110016 IN.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "billing@heuristics.co.in",
+    "info@heuristics.co.in"
+  ],
+  "phones": [
+    "8527322002"
+  ],
+  "sectors": [
+    "Software",
+    "Apps",
+    "Data and Analytics",
+    "Hardware and Technology"
+  ],
+  "ask": {
+    "amount": 9091761,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15319"
+  },
+  "legalName": "HINDUSTAN CONSULTANCY TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Chennai",
+  "description": "Hindustan Consultancy Technologies is an Indian IT software firm, operating under Hindustan Industrial Research Pvt. Ltd. They specialize in providing diverse software solutions to industrial units and service sectors.",
+  "pan": "to be added",
+  "foundingDate": "2014-08-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72300TN2014PTC096765",
+  "address": "E-1, Fourth Floor, Shakthi Towers II, 766, Anna Salai, Chennai, TN 600002.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "ceo@hindustancorporate.org"
+  ],
+  "phones": [],
+  "sectors": [
+    "Software",
+    "Manufacturing",
+    "Information Technology"
+  ],
+  "ask": {
+    "amount": 2202211,
+    "currencyCode": "INR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1531a"
+  },
+  "legalName": "HIPCOUCH",
+  "city": "Mumbai",
+  "description": "Hipcouch is a furniture solutions platform, specializing in home furnishing products for living, bedrooms, kitchen, and dining rooms.",
+  "pan": "to be added",
+  "foundingDate": "2016-01-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Real Estate",
+    "Food and Beverage"
+  ],
+  "ask": {
+    "amount": 7048885,
+    "currencyCode": "AUD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1531b"
+  },
+  "legalName": "HIPPILY TECHNOLOGY PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "Hippily Technology Private Limited offers a user-friendly platform that enables individuals to discover and share products based on their social connections.",
+  "pan": "to be added",
+  "foundingDate": "2013-12-17",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72300MH2013PTC251132",
+  "address": "Unit 401C, Hyde Park, Saki Vihar Road, Andheri (East), Mumbai, MH 400072.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "india@hippily.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Clothing and Apparel",
+    "Community and Lifestyle",
+    "Commerce and Shopping"
+  ],
+  "ask": {
+    "amount": 4044495,
+    "currencyCode": "AUD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1531c"
+  },
+  "legalName": "HIREE.COM",
+  "city": "Bengaluru",
+  "description": "Hiree.com helps recruiters find jobseekers available at short notice, reducing the hiring time.",
+  "pan": "to be added",
+  "foundingDate": "2013-01-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Professional Services",
+    "Commerce and Shopping"
+  ],
+  "ask": {
+    "amount": 8746055,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1531d"
+  },
+  "legalName": "MAALGAADI DESIGN STORE PRIVATE LIMITED",
+  "city": "Indore",
+  "description": "MAALGAADI DESIGN STORE PRIVATE LIMITED specializes in efficient and timely load picking and delivery within city boundaries with a convenient live tracking feature.",
+  "pan": "to be added",
+  "foundingDate": "2013-05-27",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U52390TN2013PTC091344",
+  "address": "NEW NO.114/3 (OLD NO.71), 5TH STREET, PADMANABHA NAGAR, ADYAR, Chennai, TN 600020.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "info@maalgaadistore.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Transportation and Logistics"
+  ],
+  "ask": {
+    "amount": 7777929,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1531e"
+  },
+  "legalName": "EPAATHSALA",
+  "city": "Bengaluru",
+  "description": "Epaathsala is a leading provider of cloud-based solutions for accreditation and compliance management of higher education institutions.",
+  "pan": "to be added",
+  "foundingDate": "2014-01-06",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "Bangalore, Karnataka, India.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Edu-Tech",
+    "Software",
+    "Information Technology",
+    "AI and ML",
+    "Professional Services"
+  ],
+  "ask": {
+    "amount": 5841858,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1531f"
+  },
+  "legalName": "FRUGIVORE INDIA PRIVATE LIMITED",
+  "city": "Delhi",
+  "description": "Frugivore India Pvt. Ltd. specializes in providing fruits and vegetables to retailers with services such as sorting, grading, and packaging.",
+  "pan": "to be added",
+  "foundingDate": "2015-06-09",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U52100DL2015PTC281314",
+  "address": "D-1 Panchvati, Adarsh Nagar, Delhi, DL 110033.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "mk@frugivore.in",
+    "abhinav.jaggi@jagsfresh.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Food and Beverage"
+  ],
+  "ask": {
+    "amount": 9679413,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15320"
+  },
+  "legalName": "MAD STREET DEN SYSTEMS PRIVATE LIMITED",
+  "city": "Chennai",
+  "description": "MAD STREET DEN SYSTEMS PRIVATE LIMITED offers Vue.ai, a unified Visual A.I. platform for retail commerce that leverages image recognition and data science.",
+  "pan": "to be added",
+  "foundingDate": "2013-08-27",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U73200KA2013PTC070694",
+  "address": "No. 706, Ferns Paradise, Off Outer Ring Road, Doddanekundi, Bangalore, KA 560037.",
+  "valuationStatus": "Pony",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 37,
+      "date": "2017-03-31"
+    },
+    {
+      "revenue": 0.7,
+      "date": "2015-03-31"
+    }
+  ],
+  "emails": [
+    "admin.s@madstreetden.systems"
+  ],
+  "phones": [],
+  "sectors": [
+    "Sales and Marketing",
+    "Data and Analytics",
+    "Commerce and Shopping",
+    "AI and ML",
+    "Manufacturing"
+  ],
+  "ask": {
+    "amount": 3778415,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15321"
+  },
+  "legalName": "MADANAPALLE RETAIL PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "MADANAPALLE RETAIL PRIVATE LIMITED is an e-commerce startup offering curated lifestyle products and premium sleep solutions.",
+  "pan": "to be added",
+  "foundingDate": "2012-02-28",
+  "dipp": "DIPP00011598",
+  "registrationStatus": "TRUE",
+  "cllpin": "U52100KA2012PTC062759",
+  "address": "2C/224, 2nd Main, 2nd Cross, Kasturi Nagar 1st Floor, Unit 1, Bangalore, Karnataka.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "alphonse.reddy@gmail.com",
+    "cc@fabmart.com"
+  ],
+  "phones": [
+    "9590072866",
+    "8060120451"
+  ],
+  "sectors": [
+    "Community and Lifestyle",
+    "Consumer Electronics",
+    "Commerce and Shopping",
+    "Real Estate",
+    "Clothing and Apparel"
+  ],
+  "ask": {
+    "amount": 6008985,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15322"
+  },
+  "legalName": "MADHU BIO GREEN PRODUCTS PRIVATE LIMITED",
+  "city": "Hyderabad",
+  "description": "Madhu Biogreen Products Pvt. Ltd aims to meet the demand for fruits and vegetables using eco-friendly farming and organic waste management.",
+  "pan": "to be added",
+  "foundingDate": "2014-12-17",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U15122TG2014PTC096864",
+  "address": "H.no:2-37/1/1/11, Vinayak Nagar, Gachibowli, Hyderabad, Telangana 500032.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "madhusudhan696@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Sales and Marketing",
+    "Clean-Tech",
+    "Others",
+    "Energy",
+    "Food and Beverage"
+  ],
+  "ask": {
+    "amount": 9516524,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15323"
+  },
+  "legalName": "MAGASOOL AGRO PRIVATE LIMITED",
+  "city": "Chennai",
+  "description": "Magasool Agro provides to small and marginal farmers specialized agriculture inputs, agri tech and knowledge to improve yield.",
+  "pan": "to be added",
+  "foundingDate": "2015-07-17",
+  "dipp": "DIPP00070062",
+  "registrationStatus": "TRUE",
+  "cllpin": "U01407KA2015PTC081656",
+  "address": "140A, Marshalls Road, Egmore, Chennai - 600008, Tamilnadu, India",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "ajay.tannirkulam@gmail.com",
+    "emailmagasool@gmail.com"
+  ],
+  "phones": [
+    "7823993457",
+    "919445392454"
+  ],
+  "sectors": [
+    "Agritech and Farming"
+  ],
+  "ask": {
+    "amount": 6280307,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15324"
+  },
+  "legalName": "MAGICLANE APP SERVICES PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "MagicX is an AI-enabled personal assistant app developed by MAGICLANE APP SERVICES PRIVATE LIMITED. It allows users to conveniently order groceries, recharge prepaid mobile phone plans, and make payments for postpaid bills such as electricity and phone bills.",
+  "pan": "to be added",
+  "foundingDate": "2015-06-22",
+  "dipp": "DIPP00038109",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74995KA2015PTC081058",
+  "address": "3582, 2nd Floor, 13th G Main, Indiranagar, Stage 2, Bangalore KA 560038 IN",
+  "valuationStatus": "Pony",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 62.9,
+      "date": "2021-03-31"
+    }
+  ],
+  "emails": [
+    "gaurav@verloop.io"
+  ],
+  "phones": [],
+  "sectors": [
+    "Consumer Electronics",
+    "Apps",
+    "Commerce and Shopping",
+    "AI and ML",
+    "Payments",
+    "Food and Beverage"
+  ],
+  "ask": {
+    "amount": 7073804,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15325"
+  },
+  "legalName": "SAMAST TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Gurugram",
+  "description": "SAMAST TECHNOLOGIES PRIVATE LIMITED operates a platform for users and merchants to discover and transact. They offer attractive discounts for every purchase made, providing savings on various categories such as food, fashion, groceries, and chemists, both online and offline.",
+  "pan": "to be added",
+  "foundingDate": "2015-05-25",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74140HR2015PTC073829",
+  "address": "Plot - 379 & 380, Sector - 29, Near IFFCO Chowk Metro Station, Gurgaon - 122001",
+  "valuationStatus": "Centaur",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [
+    {
+      "revenue": 2330,
+      "date": "2022-03-31"
+    },
+    {
+      "revenue": 1481.1,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 2111.9,
+      "date": "2020-03-31"
+    },
+    {
+      "revenue": 827.3,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 76.4,
+      "date": "2018-03-31"
+    },
+    {
+      "revenue": 18.3,
+      "date": "2016-03-31"
+    }
+  ],
+  "emails": [
+    "partner@magicpin.in",
+    "compliance@magicpin.in",
+    "legal@magicpin.in",
+    "care@magicpin.in"
+  ],
+  "phones": [
+    "1244010021"
+  ],
+  "sectors": [
+    "Clothing and Apparel",
+    "Commerce and Shopping",
+    "Food and Beverage",
+    "Internet Services"
+  ],
+  "ask": {
+    "amount": 4593716,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15326"
+  },
+  "legalName": "MAHAPOOL PRIVATE LIMITED",
+  "city": "Faridabad",
+  "description": "MAHAPOOL PRIVATE LIMITED offers a mobile application designed to address various urban challenges such as traffic congestion, limited parking spaces, air pollution, and fuel wastage. The application facilitates carpooling by connecting two or more individuals to share rides.",
+  "pan": "to be added",
+  "foundingDate": "2013-09-24",
+  "dipp": "DIPP00035832",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74900DL2013PTC258339",
+  "address": "89, LIG Flats, Sarita Vihar, South Delhi, Delhi 110076.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "bhushanbharat@hotmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Clean-Tech",
+    "Transportation and Logistics",
+    "Apps",
+    "Energy"
+  ],
+  "ask": {
+    "amount": 8825175,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15327"
+  },
+  "legalName": "MANGO MAN CONSUMER ELECTRONICS PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "MangoMan Consumer Electronics Pvt. Ltd. manufactures electronic products. The Company dongles, television, and other electronic products.",
+  "pan": "to be added",
+  "foundingDate": "2013-07-23",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U32106TG2013PTC089082",
+  "address": "to be added",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "jagdish@amjt.in"
+  ],
+  "phones": [],
+  "sectors": [
+    "Media and Entertainment",
+    "Consumer Products",
+    "Consumer Electronics",
+    "Hardware and Technology"
+  ],
+  "ask": {
+    "amount": 9066850,
+    "currencyCode": "AUD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15328"
+  },
+  "legalName": "MANGSA TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "Mangsa Technologies Pvt. Ltd. operates Foom, a mobile application that provides free drinks daily at participating pubs and resto bars listed on the platform.",
+  "pan": "to be added",
+  "foundingDate": "2017-04-05",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72900KA2017PTC101969",
+  "address": "Marathahalli, Near Kundanahalli Gate, No.1, Saroj Square, Silver Spring Road, 560037 Bangalore-Bangalore",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "loc.hello@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Apps",
+    "Community and Lifestyle"
+  ],
+  "ask": {
+    "amount": 5300413,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15329"
+  },
+  "legalName": "MANNA HEALTHCARE PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "Manna Healthcare Pvt. Ltd. specializes in the development of a mobile weight loss coaching application called ObiNo.",
+  "pan": "to be added",
+  "foundingDate": "2012-01-27",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U85100PB2012PTC055468",
+  "address": "Unit No 622, The Summit By Omkar, Next to Western Express Highway Metro Station, Andheri East, Mumbai-400093, Maharashtra, India",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "rg.fin.cs@round.glass",
+    "ritu@obino.in"
+  ],
+  "phones": [],
+  "sectors": [
+    "Natural Resources",
+    "Food and Beverage",
+    "Health-Tech"
+  ],
+  "ask": {
+    "amount": 4280719,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1532a"
+  },
+  "legalName": "MAPMYGENOME INDIA LIMITED",
+  "city": "Hyderabad",
+  "description": "Mapmygenome India Limited is a prominent molecular diagnostics company specializing in personalized healthcare solutions.",
+  "pan": "to be added",
+  "foundingDate": "2012-02-10",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U24232TG2012PLC079091",
+  "address": "Royal Demeure, HUDA Techno Enclave, Plot No. 12/2, Sector-1, Madhapur, Hyderabad, Telangana 500081, INDIA",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 14.5,
+      "date": "2015-03-31"
+    }
+  ],
+  "emails": [
+    "finance@mapmygenome.in",
+    "info@mapmygenome.in"
+  ],
+  "phones": [
+    "9118001024595",
+    "914066986700",
+    "918688310052"
+  ],
+  "sectors": [
+    "Biotech",
+    "Health-Tech"
+  ],
+  "ask": {
+    "amount": 4300926,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1532b"
+  },
+  "legalName": "MASS BLURB PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "MASS BLURB PRIVATE LIMITED is a company that has received investment from Mumbai Angel Network.",
+  "pan": "to be added",
+  "foundingDate": "2014-11-07",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U74999MH2014PTC259173",
+  "address": "Mumbai, Maharashtra, India",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "contact@massblurb.com",
+    "pankit@massblurb.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Consumer Services",
+    "Sales and Marketing",
+    "Food and Beverage",
+    "Hardware and Technology"
+  ],
+  "ask": {
+    "amount": 727814,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1532c"
+  },
+  "legalName": "HOLIDIFY TRAVELS PRIVATE LIMITED",
+  "city": "Delhi",
+  "description": "Holidify Travels Pvt Ltd operates a platform that assists travelers in discovering and planning their ideal destinations based on their preferences.",
+  "pan": "to be added",
+  "foundingDate": "2014-03-07",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U63040DL2014PTC265981",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "kovid@holidify.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Travel and Tourism"
+  ],
+  "ask": {
+    "amount": 7002822,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1532d"
+  },
+  "legalName": "HOLLER",
+  "city": "to be added",
+  "description": "Holler offers an iPhone app that helps its users connect with people around them for activities in person.",
+  "pan": "to be added",
+  "foundingDate": "2001-01-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Apps",
+    "Community and Lifestyle",
+    "Internet Services"
+  ],
+  "ask": {
+    "amount": 1781909,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1532e"
+  },
+  "legalName": "VIKILABS TECH SOLUTIONS PRIVATE LIMITED",
+  "city": "Hyderabad",
+  "description": "Hombot offers cost-effective mobile automation solutions, enabling users to remotely connect with and manage their home appliances. This innovative product is developed by Vikilabs Tech Solutions Pvt. Ltd., a leading company in the field of technology solutions.",
+  "pan": "to be added",
+  "foundingDate": "2015-09-08",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72200TG2015PTC100635",
+  "address": "PLOT NO. 80, KIRAN ENCLAVE, SIKH ROAD, BOWENPALLY SECUNDERABAD, TELANGANA 500009.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "bansal.dhruv002@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Consumer Products",
+    "Internet Services"
+  ],
+  "ask": {
+    "amount": 8554749,
+    "currencyCode": "AUD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1532f"
+  },
+  "legalName": "HOMEVILLE CONSULTING PRIVATE LIMITED",
+  "city": "Pune",
+  "description": "HomeCapital is a startup that has introduced India's Home Down Assistance Program (DPA), offering interest-free down payment assistance to home buyers.",
+  "pan": "to be added",
+  "foundingDate": "2017-05-16",
+  "dipp": "DIPP00015723",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74999PN2017PTC170407",
+  "address": "FL-201, SN- 81/1 Satellite Tower BLD- D Mizar Mundhawa, Pune, Maharashtra 411036.",
+  "valuationStatus": "Pony",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [
+    {
+      "revenue": 53,
+      "date": "2022-03-31"
+    },
+    {
+      "revenue": 36.1,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 43.6,
+      "date": "2020-03-31"
+    },
+    {
+      "revenue": 12.2,
+      "date": "2019-03-31"
+    }
+  ],
+  "emails": [
+    "wecare@homecapital.in",
+    "lalit@homecapital.in"
+  ],
+  "phones": [
+    "91930225000"
+  ],
+  "sectors": [
+    "Real Estate",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 7189684,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15330"
+  },
+  "legalName": "HOMEDOC HEALTHCARE & TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Noida",
+  "description": "Homedoc Healthcare and Technologies Pvt. Ltd. is a healthcare services provider specializing in physiotherapy and yoga services.",
+  "pan": "to be added",
+  "foundingDate": "2015-04-04",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U85100RJ2015PTC047309",
+  "address": "147, Mangal Vihar, Gopal Pura Bai Pass, Jaipur RJ 302018 IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 5.2,
+      "date": "2017-03-31"
+    },
+    {
+      "revenue": 1.2,
+      "date": "2016-03-31"
+    }
+  ],
+  "emails": [
+    "kshitij@healersathome.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Community and Lifestyle",
+    "Health-Tech",
+    "Sports"
+  ],
+  "ask": {
+    "amount": 8749828,
+    "currencyCode": "INR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15331"
+  },
+  "legalName": "HW WELLNESS SOLUTIONS PRIVATE LIMITED",
+  "city": "Pune",
+  "description": "HW WELLNESS SOLUTIONS PRIVATE LIMITED is a healthy food startup specializing in a wide range of healthy ready-to-eat foods.",
+  "pan": "to be added",
+  "foundingDate": "2013-12-19",
+  "dipp": "DIPP00011006",
+  "registrationStatus": "TRUE",
+  "cllpin": "U51900PN2013PTC149864",
+  "address": "Work AMP Sez, Plot No A-59, Road No 10, Opposite Bosch Car Service, Wagle Estate, Thane West, Thane, Maharashtra 400604.",
+  "valuationStatus": "Pony",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "personalcs@moneyplantconsulting.net",
+    "sales@healthyworld.in",
+    "sreejith@true-elements.com"
+  ],
+  "phones": [
+    "918767120120"
+  ],
+  "sectors": [
+    "Natural Resources",
+    "Food and Beverage",
+    "Health-Tech",
+    "Energy"
+  ],
+  "ask": {
+    "amount": 3806111,
+    "currencyCode": "EUR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15332"
+  },
+  "legalName": "HYPERFLUX SOLUTIONS PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "Hyperflux Solutions Pvt. Ltd. is the owner and operator of Comet, an advanced online platform dedicated to international freight services.",
+  "pan": "to be added",
+  "foundingDate": "2015-02-05",
+  "dipp": "DIPP00012182",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74110DL2015PTC276373",
+  "address": "to be added",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 0,
+      "date": "2022-03-31"
+    },
+    {
+      "revenue": 0.2,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 0.1,
+      "date": "2020-03-31"
+    },
+    {
+      "revenue": 15.8,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 11.6,
+      "date": "2018-03-31"
+    },
+    {
+      "revenue": 1.2,
+      "date": "2017-03-31"
+    }
+  ],
+  "emails": [
+    "gautam@gocomet.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Transportation and Logistics"
+  ],
+  "ask": {
+    "amount": 7670581,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15333"
+  },
+  "legalName": "HYPERNOVA INTERACTIVE TECHNOLOGY PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "Hypernova Interactive Technology Pvt. Ltd. specializes in software publishing and consultancy services, focusing on multiplayer games for mobile devices.",
+  "pan": "to be added",
+  "foundingDate": "2015-10-29",
+  "dipp": "DIPP00026093",
+  "registrationStatus": "TRUE",
+  "cllpin": "U72200KA2015PTC083768",
+  "address": "1018, Paras Pride, 13th Cross Road, 24th Main Road, 1st Sector, HSR Layout, Bangalore 560102 IN",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 25,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 17.3,
+      "date": "2020-03-31"
+    },
+    {
+      "revenue": 8.8,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 1.1,
+      "date": "2018-03-31"
+    }
+  ],
+  "emails": [
+    "mayur@hninteractive.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Software",
+    "Game-Tech",
+    "Content and Publishing",
+    "Sports"
+  ],
+  "ask": {
+    "amount": 7674723,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15334"
+  },
+  "legalName": "HYPERTRACK TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Delhi",
+  "description": "HyperTrack Technologies Private Limited provides a managed service for live location.",
+  "pan": "to be added",
+  "foundingDate": "2015-10-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72300DL2015FTC285913",
+  "address": "17, Netaji Subhash Marg, Mezzanine Floor, Darya Ganj, New Delhi, Central Delhi, Delhi, 110002.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [
+    {
+      "revenue": 4.4,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 16.2,
+      "date": "2020-03-31"
+    },
+    {
+      "revenue": 59.6,
+      "date": "2019-03-31"
+    }
+  ],
+  "emails": [
+    "contact@hypertrack.com",
+    "prashant@hypertrack.io"
+  ],
+  "phones": [],
+  "sectors": [
+    "Data and Analytics"
+  ],
+  "ask": {
+    "amount": 8547591,
+    "currencyCode": "ZAR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15335"
+  },
+  "legalName": "I-MBOSS TECHNOLOGY PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "I-MBOSS TECHNOLOGY PRIVATE LIMITED specializes in the production of advanced embossing machines.",
+  "pan": "to be added",
+  "foundingDate": "2015-10-05",
+  "dipp": "DIPP00080446",
+  "registrationStatus": "TRUE",
+  "cllpin": "U29199MH2015PTC268908",
+  "address": "1st Floor, Gokhale Nagar, Opp. IIT Main Gate, Powai, Mumbai, Maharashtra, 400076.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "imbosstechnology@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Software",
+    "Consumer Electronics",
+    "Content and Publishing"
+  ],
+  "ask": {
+    "amount": 4062364,
+    "currencyCode": "INR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15336"
+  },
+  "legalName": "IQUOTIENT CONSULTING PRIVATE LIMITED",
+  "city": "Hyderabad",
+  "description": "IQUOTIENT CONSULTING PRIVATE LIMITED excels in addressing business challenges through advanced technology.",
+  "pan": "to be added",
+  "foundingDate": "2002-09-19",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72200DL2002PTC117056",
+  "address": "3rd Floor, Terasoft Building, Road No- 41, Hyderabad-500033, Telangana, India.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "rupankhosla@hotmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Data and Analytics"
+  ],
+  "ask": {
+    "amount": 308827,
+    "currencyCode": "EUR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15337"
+  },
+  "legalName": "IBOT SYSTEMS PRIVATE LIMITED",
+  "city": "Madurai",
+  "description": "IBOT SYSTEMS PRIVATE LIMITED is a technology company specializing in a product suite that facilitates machine-to-machine (M2M), human-to-machine (H2M), and machine-to-system (M2S) interactions.",
+  "pan": "to be added",
+  "foundingDate": "2010-10-22",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72900TN2010PTC077806",
+  "address": "NO 31 III RD FLOOR TOWN HALL ROAD MADURAI, Madurai TN 625001 IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "smrajunaidu@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Internet Services"
+  ],
+  "ask": {
+    "amount": 7241663,
+    "currencyCode": "INR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15338"
+  },
+  "legalName": "IBUS NETWORK AND INFRASTRUCTURE PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "IBUS NETWORK AND INFRASTRUCTURE PRIVATE LIMITED is an innovative in-building connectivity solutions company specializing in secure connectivity and hyperlocal data intelligence.",
+  "pan": "to be added",
+  "foundingDate": "2010-12-28",
+  "dipp": "DIPP00011156",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74900KA2010PTC056368",
+  "address": "#129, 1st Floor, 10th Cross, Indiranagar 1st Stage, Bangalore 560038, Karnataka",
+  "valuationStatus": "Pony",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 178.9,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 16.5,
+      "date": "2015-03-31"
+    }
+  ],
+  "emails": [
+    "info@ibusnetworks.com",
+    "cs@ibusnetworks.com"
+  ],
+  "phones": [
+    "918025211222"
+  ],
+  "sectors": [
+    "Transportation and Logistics",
+    "Real Estate",
+    "Hardware and Technology"
+  ],
+  "ask": {
+    "amount": 9889700,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15339"
+  },
+  "legalName": "TRUELYTICS ECOMM PRIVATE LIMITED",
+  "city": "Pune",
+  "description": "Truelytics Ecomm Private Limited operates ICustomMadeIt, an online fashion marketplace for custom products and ready-to-wear clothing.",
+  "pan": "to be added",
+  "foundingDate": "2013-05-03",
+  "dipp": "DIPP00009378",
+  "registrationStatus": "TRUE",
+  "cllpin": "U72900PN2013PTC147242",
+  "address": "Opposite Amar Paradigm, Golden Empire Lane, Next to Luxuria Apartment, Baner, Pune, Maharashtra 411045, IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "support@icustommadeit.com",
+    "accounts@icustommadeit.com"
+  ],
+  "phones": [
+    "9028012751"
+  ],
+  "sectors": [
+    "Transportation and Logistics",
+    "Clothing and Apparel",
+    "Commerce and Shopping",
+    "Real Estate"
+  ],
+  "ask": {
+    "amount": 2919693,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1533a"
+  },
+  "legalName": "MHEALTH VENTURES INDIA PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "MHEALTH VENTURES INDIA PRIVATE LIMITED is a healthcare technology company that developed MeraDoctor, a mobile app for virtual consultations and healthcare advice.",
+  "pan": "to be added",
+  "foundingDate": "2010-12-23",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U85100MH2010PTC211276",
+  "address": "729H, 7th Floor, Raj Legacy, 95, LBS Marg, Vikhroli (West), Near Hometown, Mumbai, Maharashtra 400083 IN",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 27.5,
+      "date": "2015-03-31"
+    }
+  ],
+  "emails": [
+    "info@meradoctor.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Professional Services",
+    "Apps",
+    "Health-Tech"
+  ],
+  "ask": {
+    "amount": 4154921,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1533b"
+  },
+  "legalName": "MINIO IO PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "MinIO IO Private Limited provides high-performance, S3 compatible object storage solutions with native Kubernetes integration.",
+  "pan": "to be added",
+  "foundingDate": "2017-02-08",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72900KA2017FTC100322",
+  "address": "4TH FLOOR, NO. 22, SALARPURIA TOWERS 1 HOSUR ROAD, KORAMANGALA, BENGALURU Bangalore KA 560095 IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "bala@minio.io",
+    "hello@min.io"
+  ],
+  "phones": [],
+  "sectors": [
+    "Software",
+    "Hardware and Technology"
+  ],
+  "ask": {
+    "amount": 4518554,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1533c"
+  },
+  "legalName": "MIQASA HOME AUTOMATION PRIVATE LIMITED",
+  "city": "Hyderabad",
+  "description": "MIQASA HOME AUTOMATION PRIVATE LIMITED focuses on cost-effective and innovative smart switch boards and universal hub solutions.",
+  "pan": "to be added",
+  "foundingDate": "2015-05-29",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U72200TG2015PTC099154",
+  "address": "Plot no: 251, Dheeptisri Nagar Colony, Madina Guda, Miyapur, Hyderabad, Telangana - 500049",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "patil2k2@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 6383834,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1533d"
+  },
+  "legalName": "IDEAS UNPLUGGED TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Mumbai",
+  "description": "IDEAS UNPLUGGED TECHNOLOGIES PRIVATE LIMITED offers Happy2Refer, a referral app that amplifies hiring reach with intelligent features and rewards.",
+  "pan": "to be added",
+  "foundingDate": "2015-08-06",
+  "dipp": "DIPP00014651",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74999MH2015PTC267165",
+  "address": "A Wing, 605, Bldg. No. 1, Sabari Aashiana Chs Ltd. Deonar Farm Road, Deonar, Mumbai, Maharashtra 400088.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "harshit.bavisi@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Apps",
+    "Commerce and Shopping",
+    "Hardware and Technology"
+  ],
+  "ask": {
+    "amount": 1358924,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1533e"
+  },
+  "legalName": "INAYO",
+  "city": "Mumbai",
+  "description": "Startups that deliver on orders, Medicines, Patanjali, Ayurvedic products from the convenience of your home or office.",
+  "pan": "to be added",
+  "foundingDate": "2015-07-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Health-Tech"
+  ],
+  "ask": {
+    "amount": 6183438,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1533f"
+  },
+  "legalName": "INDIA BOOK STORE",
+  "city": "Gurugram",
+  "description": "India Book Store is a book search engine that swiftly locates the price and availability of books from different online bookstores.",
+  "pan": "to be added",
+  "foundingDate": "2010-08-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "feedback@indiabookstore.net"
+  ],
+  "phones": [],
+  "sectors": [
+    "Internet Services"
+  ],
+  "ask": {
+    "amount": 6429470,
+    "currencyCode": "CNY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15340"
+  },
+  "legalName": "INDIACOLLEGE SEARCH",
+  "city": "Bengaluru",
+  "description": "The IndiaCollegeSearch platform empowers students to easily discover and choose the most suitable college or university.",
+  "pan": "to be added",
+  "foundingDate": "to be added",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Edu-Tech",
+    "Internet Services"
+  ],
+  "ask": {
+    "amount": 186943,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15341"
+  },
+  "legalName": "INDIAN ZARI EMPORIUM PRIVATE LIMITED",
+  "city": "Jaipur",
+  "description": "IndianZari.com is a place where they can find everything related to Fashion & beauty of a women.",
+  "pan": "to be added",
+  "foundingDate": "2011-03-17",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U17200DL2011PTC216066",
+  "address": "A-41/3, STREET NO-4 NORTH GHONDA DELHI, North East Delhi 110053.",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "gauravgupta9181@gmail.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Clothing and Apparel",
+    "Commerce and Shopping"
+  ],
+  "ask": {
+    "amount": 589566,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15342"
+  },
+  "legalName": "INDIFI TECHNOLOGIES PRIVATE LIMITED",
+  "city": "Gurugram",
+  "description": "Indifi Technologies Private Limited is a technology platform that specializes in easy loan origination and risk model creation.",
+  "pan": "to be added",
+  "foundingDate": "2015-05-27",
+  "dipp": "DIPP00001225",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74140HR2015PTC055588",
+  "address": "Plot No. 63, Second Floor, Sector 44, Institutional Area, Gurgaon 122002",
+  "valuationStatus": "Centaur",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [
+    {
+      "revenue": 1058.1,
+      "date": "2022-03-31"
+    },
+    {
+      "revenue": 658.8,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 609.9,
+      "date": "2020-03-31"
+    },
+    {
+      "revenue": 279,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 110.8,
+      "date": "2018-03-31"
+    },
+    {
+      "revenue": 47.3,
+      "date": "2017-03-31"
+    },
+    {
+      "revenue": 12.4,
+      "date": "2016-03-31"
+    }
+  ],
+  "emails": [
+    "alliance@indifi.com",
+    "easyloan@indifi.com",
+    "info@indifi.com",
+    "cs@indifi.com"
+  ],
+  "phones": [
+    "919696555444",
+    "911246072244"
+  ],
+  "sectors": [
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 5441593,
+    "currencyCode": "JPY"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15343"
+  },
+  "legalName": "INDIGAE BIOTECH PRIVATE LIMITED",
+  "city": "Visakhapatnam",
+  "description": "to be added",
+  "pan": "to be added",
+  "foundingDate": "2014-08-11",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U05000AP2014PTC095039",
+  "address": "House No.9-7-40/3, Shivajipalem Visakhapatnam AP 530017 IN",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [],
+  "emails": [
+    "janapureddy@gmai.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Health-Tech",
+    "Agritech and Farming"
+  ],
+  "ask": {
+    "amount": 1610120,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15344"
+  },
+  "legalName": "MOHALLA TECH PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "Mohalla Tech Pvt. Ltd. specializes in developing ShareChat, a regional language chat application.",
+  "pan": "to be added",
+  "foundingDate": "2015-01-08",
+  "dipp": "DIPP00009519",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74999KA2015PTC103797",
+  "address": "NO.2, 26, 27 AND 3, SONA TOWERS, 1ST FLOOR, KRISHNA NAGAR INDUSTRIAL AREA, HOSUR MAIN ROAD, BANGALORE KA 560029 IN",
+  "valuationStatus": "Unicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Incubated",
+  "revenues": [
+    {
+      "revenue": 3470,
+      "date": "2022-03-31"
+    },
+    {
+      "revenue": 964,
+      "date": "2021-03-31"
+    },
+    {
+      "revenue": 381,
+      "date": "2020-03-31"
+    },
+    {
+      "revenue": 256.4,
+      "date": "2019-03-31"
+    },
+    {
+      "revenue": 17.2,
+      "date": "2018-03-31"
+    },
+    {
+      "revenue": 7.84,
+      "date": "2016-03-31"
+    }
+  ],
+  "emails": [
+    "contact@sharechat.co",
+    "farid@sharechat.co"
+  ],
+  "phones": [],
+  "sectors": [
+    "Edu-Tech",
+    "Community and Lifestyle",
+    "Media and Entertainment",
+    "Internet Services"
+  ],
+  "ask": {
+    "amount": 5559972,
+    "currencyCode": "USD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15345"
+  },
+  "legalName": "MONJIN INTERVIEWS PRIVATE LIMITED",
+  "city": "Pune",
+  "description": "Monjin Interviews Pvt. Ltd. operates as an online video interviewing platform that simplifies the recruitment process.",
+  "pan": "to be added",
+  "foundingDate": "2012-04-17",
+  "dipp": "DIPP00014052",
+  "registrationStatus": "TRUE",
+  "cllpin": "U74900PN2012PTC142995",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "dinesh.sarnaik@monjin.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Video",
+    "Media and Entertainment",
+    "Business Support Services",
+    "Commerce and Shopping",
+    "Professional Services"
+  ],
+  "ask": {
+    "amount": 8672894,
+    "currencyCode": "SGD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15346"
+  },
+  "legalName": "MONKEYBOX FOOD TECH PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "MonkeyBox Food Tech Pvt. Ltd. specializes in providing vegetarian food delivery services to schools.",
+  "pan": "to be added",
+  "foundingDate": "2015-10-07",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U15400KA2015PTC083181",
+  "address": "to be added",
+  "valuationStatus": "Minicorn",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 52.6,
+      "date": "2018-03-31"
+    },
+    {
+      "revenue": 5.9,
+      "date": "2017-03-31"
+    },
+    {
+      "revenue": 0.4,
+      "date": "2016-03-31"
+    }
+  ],
+  "emails": [
+    "sandeep@monkeybox.in"
+  ],
+  "phones": [],
+  "sectors": [
+    "Transportation and Logistics",
+    "Food and Beverage",
+    "Business Support Services",
+    "Fin-Tech"
+  ],
+  "ask": {
+    "amount": 3353755,
+    "currencyCode": "GBP"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15347"
+  },
+  "legalName": "MOOVO",
+  "city": "Delhi",
+  "description": "MOOVO is a mobile app revolutionizing cargo logistics by connecting users with mini-truck drivers.",
+  "pan": "to be added",
+  "foundingDate": "2014-01-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "to be added",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [],
+  "phones": [],
+  "sectors": [
+    "Transportation and Logistics",
+    "Apps",
+    "Real Estate"
+  ],
+  "ask": {
+    "amount": 8362730,
+    "currencyCode": "INR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15348"
+  },
+  "legalName": "MTAXI",
+  "city": "Gurugram",
+  "description": "MTAXI is a comprehensive solution for taxi companies, offering app-based 2-wheeler taxi services.",
+  "pan": "to be added",
+  "foundingDate": "2015-01-01",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "to be added",
+  "address": "House No. 3090, Ground Floor, Sector 46, Gurugram, Haryana 122022",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [
+    {
+      "revenue": 0,
+      "date": "2022-03-31"
+    },
+    {
+      "revenue": 1.4,
+      "date": "2018-03-31"
+    },
+    {
+      "revenue": 4,
+      "date": "2017-03-31"
+    },
+    {
+      "revenue": 0.5,
+      "date": "2016-03-31"
+    }
+  ],
+  "emails": [
+    "info@m-taxi.in"
+  ],
+  "phones": [
+    "1246515333"
+  ],
+  "sectors": [
+    "Transportation and Logistics",
+    "Apps",
+    "Travel and Tourism"
+  ],
+  "ask": {
+    "amount": 5186160,
+    "currencyCode": "AUD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e15349"
+  },
+  "legalName": "EBIX TRAVELS PRIVATE LIMITED",
+  "city": "Bengaluru",
+  "description": "Ebix Travels specializes in serving corporate clients with travel requirements and expense management.",
+  "pan": "to be added",
+  "foundingDate": "2007-02-05",
+  "dipp": "to be added",
+  "registrationStatus": "to be added",
+  "cllpin": "U63040DL2007PTC392725",
+  "address": "Flat No. 101, First Floor, 4832/24 Ansari Road, Darya Ganj, New Delhi, Central Delhi, DL 110002",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "cs@ebix.com"
+  ],
+  "phones": [],
+  "sectors": [
+    "Travel and Tourism",
+    "Media and Entertainment",
+    "Fin-Tech",
+    "Commerce and Shopping",
+    "Events and Concerts"
+  ],
+  "ask": {
+    "amount": 4878062,
+    "currencyCode": "CAD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6749a1b431a95e2710e1534a"
+  },
+  "legalName": "NAVRITA SOFTWARE PRIVATE LIMITED",
+  "city": "Chennai",
+  "description": "Navrita Software Pvt Ltd specializes in CRM solutions for SMEs, offering cloud-based software.",
+  "pan": "to be added",
+  "foundingDate": "2013-01-01",
+  "dipp": "DIPP00046721",
+  "registrationStatus": "TRUE",
+  "cllpin": "U72400TN2010PTC077628",
+  "address": "Mithula Towers, Nathan Subramanian Colony Road, Velachery, Chennai, India - 600042",
+  "valuationStatus": "to be added",
+  "fundingStatus": "Not Funded",
+  "incubationStatus": "Not Incubated",
+  "revenues": [],
+  "emails": [
+    "lokanathan@navrita.com",
+    "sales@kreatocrm.com"
+  ],
+  "phones": [
+    "9025138100"
+  ],
+  "sectors": [
+    "Sales and Marketing",
+    "Community and Lifestyle",
+    "Transportation and Logistics",
+    "Privacy and Security",
+    "Sports",
+    "Software",
+    "Information Technology",
+    "Real Estate",
+    "AI and ML",
+    "Others"
+  ],
+  "ask": {
+    "amount": 3767560,
+    "currencyCode": "CNY"
+  }
+}]

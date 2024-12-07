@@ -1,0 +1,514 @@
+[{
+  "_id": {
+    "$oid": "6749a66531a95e2710e1534c"
+  },
+  "uid": "inv001",
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "johndoe@example.com",
+  "contact": 1234567890,
+  "imgUrl": "https://example.com/johndoe.jpg",
+  "bio": "Experienced investor specializing in FinTech and AI startups.",
+  "tagLine": "Empowering innovation.",
+  "position": "Angel Investor",
+  "totalExperience": 15,
+  "previousInvestments": [
+    {
+      "companyName": "TechCorp",
+      "fromYear": "01-01-2017",
+      "toYear": "01-01-2020",
+      "amount": 500000,
+      "currencyCode": "USD"
+    }
+  ],
+  "openToInvest": true,
+  "minInvest": 50000,
+  "maxInvest": 200000,
+  "sweetSpot": 150000,
+  "currency": "USD",
+  "permissions": [
+    "ALL",
+    "PITCH",
+    "ANALYTICS"
+  ],
+  "education": [
+    {
+      "collegeName": "Harvard Business School",
+      "specialization": "Finance",
+      "degree": "MBA",
+      "fromYear": "01-01-2005",
+      "toYear": "01-01-2007"
+    }
+  ],
+  "previousExperience": [
+    {
+      "companyName": "BigFinance Inc.",
+      "position": "Senior Analyst",
+      "fromYear": "01-01-2008",
+      "toYear": "01-01-2015"
+    }
+  ],
+  "role": "Investor",
+  "country": "India",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "industry": [
+    "Software"
+  ],
+  "portfolioLink": "https://example.com/portfolio",
+  "investmentLocation": [
+    "Delhi"
+  ],
+  "investmentStage": "Funded",
+  "pitchesLiked": [
+    "648dfc9ebf4e0b2b3fcd4321"
+  ],
+  "linkedInLink": "https://linkedin.com/in/johndoe",
+  "googleCalendar": true,
+  "googleRefreshToken": "refresh-token-12345",
+  "googleAccessToken": "access-token-12345",
+  "tags": [
+    "FinTech",
+    "AI"
+  ],
+  "valuationInterestedIn": 100000000,
+  "typeOfInvestment": "Equity"
+},
+{
+  "_id": {
+    "$oid": "6749a66531a95e2710e1534d"
+  },
+  "uid": "inv002",
+  "firstName": "Jane",
+  "lastName": "Smith",
+  "email": "janesmith@example.com",
+  "contact": {
+    "$numberLong": "9876543210"
+  },
+  "imgUrl": "https://example.com/janesmith.jpg",
+  "bio": "Venture capitalist with a focus on SaaS and GreenTech.",
+  "tagLine": "Sustainable growth.",
+  "position": "VC Partner",
+  "totalExperience": 12,
+  "previousInvestments": [
+    {
+      "companyName": "EcoStart",
+      "fromYear": "01-01-2016",
+      "toYear": "01-01-2019",
+      "amount": 750000,
+      "currencyCode": "USD"
+    }
+  ],
+  "openToInvest": true,
+  "minInvest": 100000,
+  "maxInvest": 2000000,
+  "sweetSpot": 500000,
+  "currency": "EUR",
+  "permissions": [
+    "DASHBOARD",
+    "ANALYTICS"
+  ],
+  "education": [
+    {
+      "collegeName": "Stanford University",
+      "specialization": "Sustainability",
+      "degree": "MS",
+      "fromYear": "01-01-2010",
+      "toYear": "01-01-2012"
+    }
+  ],
+  "previousExperience": [
+    {
+      "companyName": "GreenFuture",
+      "position": "Sustainability Consultant",
+      "fromYear": "01-01-2013",
+      "toYear": "01-01-2015"
+    }
+  ],
+  "role": "Investor",
+  "country": "India",
+  "city": "Chennai",
+  "state": "California",
+  "industry": [
+    "Edu-Tech"
+  ],
+  "portfolioLink": "https://example.com/jane-portfolio",
+  "investmentLocation": [
+    "Bengaluru"
+  ],
+  "investmentStage": "Not Funded",
+  "pitchesLiked": [
+    "648dfc9ebf4e0b2b3fcd2222"
+  ],
+  "linkedInLink": "https://linkedin.com/in/janesmith",
+  "googleCalendar": true,
+  "tags": [
+    "SaaS",
+    "GreenTech"
+  ],
+  "valuationInterestedIn": 500000000,
+  "typeOfInvestment": "Debt"
+},
+{
+  "_id": {
+    "$oid": "6749a66531a95e2710e1534e"
+  },
+  "uid": "inv003",
+  "firstName": "Alice",
+  "lastName": "Johnson",
+  "email": "alicejohnson@example.com",
+  "contact": 1112223333,
+  "imgUrl": "https://example.com/alicejohnson.jpg",
+  "bio": "Focused on social impact investments in education and renewable energy.",
+  "tagLine": "Investing in change.",
+  "position": "Impact Investor",
+  "totalExperience": 10,
+  "previousInvestments": [
+    {
+      "companyName": "EduGrow",
+      "fromYear": "01-01-2016",
+      "toYear": "01-01-2018",
+      "amount": 200000,
+      "currencyCode": "USD"
+    }
+  ],
+  "openToInvest": true,
+  "minInvest": 20000,
+  "maxInvest": 500000,
+  "sweetSpot": 250000,
+  "currency": "INR",
+  "permissions": [
+    "PITCH",
+    "FOLLOWUP"
+  ],
+  "education": [
+    {
+      "collegeName": "MIT",
+      "specialization": "Education Policy",
+      "degree": "PhD",
+      "fromYear": "01-01-2009",
+      "toYear": "01-01-2013"
+    }
+  ],
+  "previousExperience": [
+    {
+      "companyName": "EcoTech",
+      "position": "Senior Analyst",
+      "fromYear": "01-01-2018",
+      "toYear": "01-01-2023"
+    }
+  ],
+  "role": "Investor",
+  "country": "India",
+  "city": "Mumbai",
+  "state": "Greater London",
+  "industry": [
+    "Fin-Tech"
+  ],
+  "portfolioLink": "https://example.com/alice-portfolio",
+  "investmentLocation": [
+    "Mumbai"
+  ],
+  "investmentStage": "Incubated",
+  "pitchesLiked": [
+    "648dfc9ebf4e0b2b3fcd123"
+  ],
+  "googleCalendar": false,
+  "tags": [
+    "EduTech",
+    "Renewable Energy"
+  ],
+  "valuationInterestedIn": 20000000,
+  "typeOfInvestment": "Equity"
+},
+{
+  "_id": {
+    "$oid": "6749a66531a95e2710e1534f"
+  },
+  "uid": "inv004",
+  "firstName": "Michael",
+  "lastName": "Brown",
+  "email": "michaelbrown@example.com",
+  "contact": 1987654321,
+  "imgUrl": "https://example.com/michaelbrown.jpg",
+  "bio": "Serial entrepreneur turned angel investor with a passion for AI and Robotics.",
+  "tagLine": "Building the future.",
+  "position": "Angel Investor",
+  "totalExperience": 20,
+  "previousInvestments": [
+    {
+      "companyName": "RoboticsLab",
+      "fromYear": "01-01-2015",
+      "toYear": "01-01-2018",
+      "amount": 800000,
+      "currencyCode": "USD"
+    }
+  ],
+  "openToInvest": true,
+  "minInvest": 100000,
+  "maxInvest": 1000000,
+  "sweetSpot": 500000,
+  "currency": "GBP",
+  "permissions": [
+    "ALL",
+    "UPLOAD"
+  ],
+  "education": [
+    {
+      "collegeName": "Caltech",
+      "specialization": "Robotics",
+      "degree": "PhD",
+      "fromYear": "01-01-2000",
+      "toYear": "01-01-2005"
+    }
+  ],
+  "previousExperience": [
+    {
+      "companyName": "TechSolutions",
+      "position": "CEO",
+      "fromYear": "01-01-2006",
+      "toYear": "01-01-2014"
+    }
+  ],
+  "role": "Investor",
+  "country": "India",
+  "city": "Pune",
+  "state": " Masovian Voivodeship",
+  "industry": [
+    "Transportation and Logistic"
+  ],
+  "portfolioLink": "https://example.com/michael-portfolio",
+  "investmentLocation": [
+    "Delhi"
+  ],
+  "investmentStage": "Not Incubated",
+  "pitchesLiked": [
+    "648dfc9ebf4e0b2b3fcd1111"
+  ],
+  "linkedInLink": "https://linkedin.com/in/michaelbrown",
+  "googleCalendar": true,
+  "tags": [
+    "AI",
+    "Robotics"
+  ],
+  "valuationInterestedIn": 30000000,
+  "typeOfInvestment": "Equity"
+},
+{
+  "_id": {
+    "$oid": "6749a66531a95e2710e15350"
+  },
+  "uid": "inv005",
+  "firstName": "Sophia",
+  "lastName": "Williams",
+  "email": "sophiawilliams@example.com",
+  "contact": 1123456789,
+  "imgUrl": "https://example.com/sophiawilliams.jpg",
+  "bio": "Venture capitalist focusing on health-tech and biotech industries.",
+  "tagLine": "Investing in health.",
+  "position": "VC Partner",
+  "totalExperience": 18,
+  "previousInvestments": [
+    {
+      "companyName": "MediCare Solutions",
+      "fromYear": "01-01-2018",
+      "toYear": "01-01-2021",
+      "amount": 1200000,
+      "currencyCode": "USD"
+    }
+  ],
+  "openToInvest": true,
+  "minInvest": 200000,
+  "maxInvest": 5000000,
+  "sweetSpot": 1000000,
+  "currency": "AUD",
+  "permissions": [
+    "ANALYTICS",
+    "REPORT"
+  ],
+  "education": [
+    {
+      "collegeName": "Johns Hopkins University",
+      "specialization": "Biotechnology",
+      "degree": "MSc",
+      "fromYear": "01-01-2007",
+      "toYear": "01-01-2009"
+    }
+  ],
+  "previousExperience": [
+    {
+      "companyName": "HealthTech Inc.",
+      "position": "VP of Investments",
+      "fromYear": "01-01-2010",
+      "toYear": "01-01-2017"
+    }
+  ],
+  "role": "Investor",
+  "country": "India",
+  "city": "Bengaluru",
+  "state": "Bavaria",
+  "industry": [
+    "AI and ML"
+  ],
+  "portfolioLink": "https://example.com/sophia-portfolio",
+  "investmentLocation": [
+    "Chennai"
+  ],
+  "investmentStage": "Incubated",
+  "pitchesLiked": [
+    "648dfc9ebf4e0b2b3fcd4321"
+  ],
+  "googleCalendar": false,
+  "tags": [
+    "Health-Tech",
+    "Biotech"
+  ],
+  "valuationInterestedIn": 50000000,
+  "typeOfInvestment": "Debt"
+},
+{
+  "_id": {
+    "$oid": "6749a66531a95e2710e15351"
+  },
+  "uid": "inv006",
+  "firstName": "James",
+  "lastName": "Taylor",
+  "email": "jamestaylor@example.com",
+  "contact": 1230987654,
+  "imgUrl": "https://example.com/jamestaylor.jpg",
+  "bio": "An advocate for clean energy and sustainable investments.",
+  "tagLine": "Investing in a greener future.",
+  "position": "Impact Investor",
+  "totalExperience": 14,
+  "previousInvestments": [
+    {
+      "companyName": "Solarify",
+      "fromYear": "01-01-2016",
+      "toYear": "01-01-2019",
+      "amount": 400000,
+      "currencyCode": "USD"
+    }
+  ],
+  "openToInvest": true,
+  "minInvest": 50000,
+  "maxInvest": 1000000,
+  "sweetSpot": 300000,
+  "currency": "JPY",
+  "permissions": [
+    "PITCH",
+    "FOLLOWUP"
+  ],
+  "education": [
+    {
+      "collegeName": "MIT",
+      "specialization": "Renewable Energy",
+      "degree": "MS",
+      "fromYear": "01-01-2010",
+      "toYear": "01-01-2012"
+    }
+  ],
+  "previousExperience": [
+    {
+      "companyName": "EcoTech",
+      "position": "Sustainability Advisor",
+      "fromYear": "01-01-2013",
+      "toYear": "01-01-2015"
+    }
+  ],
+  "role": "Investor",
+  "country": "India",
+  "city": "Chennai",
+  "state": "Western Province",
+  "industry": [
+    "Data Analytics"
+  ],
+  "portfolioLink": "https://example.com/james-portfolio",
+  "investmentLocation": [
+    "Pune"
+  ],
+  "investmentStage": "Funded",
+  "pitchesLiked": [
+    "648dfc9ebf4e0b2b3fcd2222"
+  ],
+  "googleCalendar": true,
+  "tags": [
+    "Clean Energy",
+    "Renewable Energy"
+  ],
+  "valuationInterestedIn": 15000000,
+  "typeOfInvestment": "Equity"
+},
+{
+  "_id": {
+    "$oid": "6749a66531a95e2710e15352"
+  },
+  "uid": "inv007",
+  "firstName": "Emma",
+  "lastName": "Harris",
+  "email": "emmaharris@example.com",
+  "contact": {
+    "$numberLong": "9876512345"
+  },
+  "imgUrl": "https://example.com/emmaharris.jpg",
+  "bio": "Focused on early-stage startups in AI and Big Data.",
+  "tagLine": "From ideas to impact.",
+  "position": "Angel Investor",
+  "totalExperience": 9,
+  "previousInvestments": [
+    {
+      "companyName": "DataPro",
+      "fromYear": "01-01-2020",
+      "toYear": "01-01-2020",
+      "amount": 600000,
+      "currencyCode": "USD"
+    }
+  ],
+  "openToInvest": true,
+  "minInvest": 50000,
+  "maxInvest": 2000000,
+  "sweetSpot": 750000,
+  "currency": "CAD",
+  "permissions": [
+    "REQUEST",
+    "REPORT"
+  ],
+  "education": [
+    {
+      "collegeName": "Carnegie Mellon University",
+      "specialization": "Data Science",
+      "degree": "MSc",
+      "fromYear": "01-01-2013",
+      "toYear": "01-01-2015"
+    }
+  ],
+  "previousExperience": [
+    {
+      "companyName": "TechSolutions",
+      "position": "Senior Analyst",
+      "fromYear": "01-01-2006",
+      "toYear": "01-01-2014"
+    }
+  ],
+  "role": "Investor",
+  "country": "India",
+  "city": "Pune",
+  "state": "Uttar Pradesh",
+  "industry": [
+    "Software"
+  ],
+  "portfolioLink": "https://example.com/emma-portfolio",
+  "investmentLocation": [
+    "Bhopal"
+  ],
+  "investmentStage": "Funded",
+  "pitchesLiked": [
+    "648dfc9ebf4e0b2b3fcd123"
+  ],
+  "googleCalendar": false,
+  "tags": [
+    "AI",
+    "Big Data"
+  ],
+  "valuationInterestedIn": 80000000,
+  "typeOfInvestment": "Equity"
+}]

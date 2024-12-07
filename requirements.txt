@@ -1,0 +1,9 @@
+flask
+python-dotenv
+PyPDF2
+numpy
+langchain
+pymongo
+langchain-community
+openai
+tiktoken
